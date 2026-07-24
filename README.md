@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🥛 Danone, código e curiosidade.
+## 🥤 Danone, código e curiosidade.
 
 </div>
 
